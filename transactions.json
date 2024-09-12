@@ -1,0 +1,23 @@
+[
+  {
+    "transaction_id": "1001",
+    "customer_id": "2001",
+    "product_id": "3001",
+    "amount": 59.99,
+    "timestamp": "2023-09-01 10:15:30"
+  },
+  {
+    "transaction_id": "1002",
+    "customer_id": "2002",
+    "product_id": "3002",
+    "amount": 89.99,
+    "timestamp": "2023-09-01 11:45:12"
+  },
+  {
+    "transaction_id": "1003",
+    "customer_id": "2003",
+    "product_id": "3003",
+    "amount": 45.50,
+    "timestamp": "2023-09-02 14:05:43"
+  }
+]

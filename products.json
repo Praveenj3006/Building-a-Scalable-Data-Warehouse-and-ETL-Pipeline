@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "price": 999.99,
+    "stock": 50
+  },
+  {
+    "product_id": "2",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "price": 699.99,
+    "stock": 150
+  },
+  {
+    "product_id": "3",
+    "product_name": "Headphones",
+    "category": "Accessories",
+    "price": 199.99,
+    "stock": 300
+  }
+]

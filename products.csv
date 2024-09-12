@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock
+1,Laptop,Electronics,999.99,50
+2,Smartphone,Electronics,699.99,150
+3,Headphones,Accessories,199.99,300
+4,Monitor,Electronics,299.99,75
+5,Mouse,Accessories,49.99,500
